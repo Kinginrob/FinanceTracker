@@ -16,3 +16,6 @@
 4. Run the application.
 
 python finance_tracker.py
+
+
+![Tracker](https://github.com/Kinginrob/FinanceTracker/assets/89039139/f52ed38b-bec6-4945-a559-cad976e82546)
